@@ -1,10 +1,8 @@
 # sql-challenge
 
-![sql.png](sql.png)
-
 SQL Homework - Week 9 - Employee Database: A Mystery in Two Parts
 
-[PART 1] - Solution - QuickDBD
+## [PART 1] - Solution - QuickDBD
 
 - Includes QuickDBD image (.png) and .sql file
 
