@@ -14,7 +14,7 @@ SQL Homework - Week 9 - Employee Database: A Mystery in Two Parts
 
 ## [PART 3] - Solution - Bonus
 
-
+- SQL_Challenge_Bonus.ipynb
 
 ## [PART 4] - Solution - Graphs
   
