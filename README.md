@@ -19,7 +19,7 @@
 - Hist - Salary Range and Department Names
 - Hist - Salary Range and Titles
 - Bar - Salary Range and Titles
-![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge/master/Solution%20-%20Graphs/Bar_Avg_Salary_By_Title.png)
+> ![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge/master/Solution%20-%20Graphs/Bar_Avg_Salary_By_Title.png)
 
 ## [PART 5] - Pewlett_Hackard_Bonus_Conclusion.docx
 
