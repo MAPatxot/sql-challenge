@@ -17,7 +17,9 @@
 ## [PART 4] - Solution - Graphs
   
 - Hist - Salary Range and Department Names
+> ![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge/master/Solution%20-%20Graphs/Hist_By_Dept_Salaries_Range.png)
 - Hist - Salary Range and Titles
+> ![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge/master/Solution%20-%20Graphs/Hist_Employee_Salary_Range.png)
 - Bar - Salary Range and Titles
 > ![header image](https://raw.githubusercontent.com/MAPatxot/sql-challenge/master/Solution%20-%20Graphs/Bar_Avg_Salary_By_Title.png)
 
