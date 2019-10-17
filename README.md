@@ -1,6 +1,6 @@
 # sql-challenge
 
-
+\n
 SQL Homework - Week 9 - Employee Database: A Mystery in Two Parts
 
 [PART 1] - Solution - QuickDBD
