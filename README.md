@@ -14,7 +14,13 @@ SQL Homework - Week 9 - Employee Database: A Mystery in Two Parts
 
 ## [PART 3] - Solution - Bonus
 
+
+
 ## [PART 4] - Solution - Graphs
+  
+- Hist - Salary Range and Department Names
+- Hist - Salary Range and Titles
+- Bar - Salary Range and Titles
 
 ## [PART 5] - Pewlett_Hackard_Bonus_Conclusion.docx
 
